@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Hammersmith+One&display=swap');
+
+.title {
+    font-family: 'Hammersmith One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    width: 243px;
+    height: 38px;
+    color: #FFFFFF;
+}
